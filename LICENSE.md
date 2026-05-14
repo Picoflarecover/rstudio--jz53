@@ -1,4 +1,4 @@
-# 
+# Enhance RStudio for PC | RStudio for Windows with RStudio for PC | RStudio for Windows automatic Extension: multi-sheet-management & version-control, the #1 extension. Includes
 
 
 
